@@ -1,6 +1,6 @@
 # FlameScale OS Community Edition
 
-[https://drive.google.com/file/d/14sKAwPb7AcPZ-QQZ5YFKfxotfQGSuiL-/view?usp=sharing](https://drive.google.com/file/d/1g5bkMTRofC3cUh6dgIEJLQoeSP0MZwZX/view?usp=sharing)
+https://cloudstorage.menrva-tech.com/s/PBpd6jZ5ipkamnn
 
 FlameScale is a ubuntu based distro aimed at Avtice Directory security research. This is an ongoing project and the distro will continue to evolve.
 Download and import the .ova. Have fun! Work in progress. Im open to feedback/suggestions.
